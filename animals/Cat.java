@@ -2,11 +2,11 @@ public class Cat {
 	private String name;
 	private int age;
 	
-	Cat(String name) {
+	public Cat(String name) {
 		this.name = name;
 	}
 	
-	Cat(String name, int age) {
+	public Cat(String name, int age) {
 		this(name);
 		this.age = age;
 	}
