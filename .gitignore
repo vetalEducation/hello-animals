@@ -1,0 +1,8 @@
+###Ingnore people
+#files
+*[man].java
+*[men].java
+*[woman].java
+*[women].java
+#directories
+/people
