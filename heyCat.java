@@ -1,6 +1,6 @@
 public class HeyCat {
 	public static void heyCat(Cat cat) {
-		System.out.println("Hey " + cat.getName());
+		System.out.println("Hey " + cat.getName() + "!");
 	}
 	
 	public static void main(String[] args) {
