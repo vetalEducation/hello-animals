@@ -29,6 +29,6 @@ public class Pig {
 	
 	@Override
 	public String toString() {
-		return "Pig {" + "name = '" + name + "', age = " + age + '}';
+		return "Pig{" + "name = '" + name + "', age = " + age + '}';
 	}
 }
