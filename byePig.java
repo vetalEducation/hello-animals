@@ -4,7 +4,7 @@ public class ByePig {
 	}
 	
 	public static void main(String[] args) {
-		Pig dog = new Pig("Kitsko");
+		Pig dog = new Pig("Kabanchik");
 		ByePig(dog);
 	}
 }
