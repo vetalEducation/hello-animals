@@ -1,10 +1,10 @@
 public class ByePig {
-	public static void ByePig(Pig dog) {
-		System.out.println("Bye " + dog.getName());
+	public static void ByePig(Pig pig) {
+		System.out.println("Bye " + pig.getName());
 	}
 	
 	public static void main(String[] args) {
-		Pig dog = new Pig("Kabanchik");
-		ByePig(dog);
+		Pig pig = new Pig("Kabanchik");
+		ByePig(pig);
 	}
 }
