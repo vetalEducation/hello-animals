@@ -7,7 +7,7 @@ public class Pig {
 	}
 	
 	public Pig(String name, int age) {
-		this(name);
+		this.name = name;
 		this.age = age;
 	}
 	
