@@ -7,7 +7,7 @@ public class Cat {
 	}
 	
 	public Cat(String name, int age) {
-		this(name);
+		this.name = name;
 		this.age = age;
 	}
 	
