@@ -29,6 +29,6 @@ public class Elephant {
 	
 	@Override
 	public String toString() {
-		return "Cat{" + "name = '" + name + "', age = " + age + '}';
+		return "Elephant{" + "name = '" + name + "', age = " + age + '}';
 	}
 }
